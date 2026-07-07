@@ -1,0 +1,3 @@
+import os
+
+TOKEN = os.getenv("TG_BOT_TOKEN", "8980408610:AAHTAJKXYO4G4ZIpnoCKJW4ZzuBbYCHm4C8")
